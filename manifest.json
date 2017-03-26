@@ -1,0 +1,146 @@
+{
+  "type" : "TUTORIAL",
+  "object" : "container",
+  "slug" : "creer-un-site-web-en-html-et-css",
+  "title" : "Créer un site web en HTML et CSS",
+  "introduction" : "introduction.md",
+  "conclusion" : "conclusion.md",
+  "children" : [ {
+    "object" : "container",
+    "slug" : "web",
+    "title" : "C'est quoi au juste, le « web » ?",
+    "introduction" : "web/introduction.md",
+    "conclusion" : "web/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "les-origines-du-web",
+      "title" : "Les origines du web",
+      "introduction" : "web/les-origines-du-web/introduction.md",
+      "conclusion" : "web/les-origines-du-web/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "le-fonctionnement-des-sites-web",
+      "title" : "Le fonctionnement des sites web",
+      "introduction" : "web/le-fonctionnement-des-sites-web/introduction.md",
+      "conclusion" : "web/le-fonctionnement-des-sites-web/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "le-couple-htmlcss",
+      "title" : "Le couple HTML/CSS",
+      "introduction" : "web/le-couple-htmlcss/introduction.md",
+      "conclusion" : "web/le-couple-htmlcss/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "les-outils-necessaires",
+      "title" : "Les outils nécessaires",
+      "introduction" : "web/les-outils-necessaires/introduction.md",
+      "conclusion" : "web/les-outils-necessaires/conclusion.md",
+      "children" : [ ]
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "html",
+    "title" : "L'organisation du contenu grâce au langage HTML",
+    "introduction" : "html/introduction.md",
+    "conclusion" : "html/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "une-page-web-en-html",
+      "title" : "Création d'une première page web",
+      "introduction" : "html/une-page-web-en-html/introduction.md",
+      "conclusion" : "html/une-page-web-en-html/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "texte",
+      "title" : "Le texte",
+      "introduction" : "html/texte/introduction.md",
+      "conclusion" : "html/texte/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "ajouter-des-liens",
+      "title" : "Les liens",
+      "introduction" : "html/ajouter-des-liens/introduction.md",
+      "conclusion" : "html/ajouter-des-liens/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "ajotuer-du-multimedia",
+      "title" : "Le multimédia",
+      "introduction" : "html/ajotuer-du-multimedia/introduction.md",
+      "conclusion" : "html/ajotuer-du-multimedia/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "les-tableaux",
+      "title" : "Les tableaux",
+      "introduction" : "html/les-tableaux/introduction.md",
+      "conclusion" : "html/les-tableaux/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "les-formulaires",
+      "title" : "Les formulaires",
+      "introduction" : "html/les-formulaires/introduction.md",
+      "conclusion" : "html/les-formulaires/conclusion.md",
+      "children" : [ ]
+    } ]
+  }, {
+    "object" : "container",
+    "slug" : "css",
+    "title" : "La mise en forme du contenu grâce au langage CSS",
+    "introduction" : "css/introduction.md",
+    "conclusion" : "css/conclusion.md",
+    "children" : [ ]
+  }, {
+    "object" : "container",
+    "slug" : "site",
+    "title" : "La mise en page de son site web",
+    "introduction" : "site/introduction.md",
+    "conclusion" : "site/conclusion.md",
+    "children" : [ ]
+  }, {
+    "object" : "container",
+    "slug" : "plus-loin",
+    "title" : "Aller plus loin",
+    "introduction" : "plus-loin/introduction.md",
+    "conclusion" : "plus-loin/conclusion.md",
+    "children" : [ ]
+  }, {
+    "object" : "container",
+    "slug" : "annexes",
+    "title" : "Annexes",
+    "introduction" : "annexes/introduction.md",
+    "conclusion" : "annexes/conclusion.md",
+    "children" : [ {
+      "object" : "container",
+      "slug" : "les-balises-html-vues-dans-ce-cours",
+      "title" : "Les balises HTML vues dans ce cours",
+      "introduction" : "annexes/les-balises-html-vues-dans-ce-cours/introduction.md",
+      "conclusion" : "annexes/les-balises-html-vues-dans-ce-cours/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "les-proprietes-css-vues-dans-ce-corus",
+      "title" : "Les propriétés CSS vues dans ce cours",
+      "introduction" : "annexes/les-proprietes-css-vues-dans-ce-corus/introduction.md",
+      "conclusion" : "annexes/les-proprietes-css-vues-dans-ce-corus/conclusion.md",
+      "children" : [ ]
+    }, {
+      "object" : "container",
+      "slug" : "ou-se-documenter-sur-les-langages-html-et-css-",
+      "title" : "Où se documenter sur les langages HTML et CSS ?",
+      "introduction" : "annexes/ou-se-documenter-sur-les-langages-html-et-css-/introduction.md",
+      "conclusion" : "annexes/ou-se-documenter-sur-les-langages-html-et-css-/conclusion.md",
+      "children" : [ ]
+    } ]
+  } ],
+  "version" : 2,
+  "licence" : "CC BY-NC-SA",
+  "description" : "",
+  "type" : "TUTORIAL"
+}
